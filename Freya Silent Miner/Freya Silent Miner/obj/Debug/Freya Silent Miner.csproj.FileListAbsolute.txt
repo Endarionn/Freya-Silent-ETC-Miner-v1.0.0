@@ -1,0 +1,10 @@
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya Silent Miner.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya_Silent_Miner.Form1.resources
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya_Silent_Miner.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya Silent Miner.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya Silent Miner.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\bin\Debug\Freya Silent Miner.exe.config
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\bin\Debug\Freya Silent Miner.exe
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\bin\Debug\Freya Silent Miner.pdb
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya Silent Miner.exe
+C:\Users\ygzat\Desktop\Freya Silent Miner\Freya Silent Miner\obj\Debug\Freya Silent Miner.pdb

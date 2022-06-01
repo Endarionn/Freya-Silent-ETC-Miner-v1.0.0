@@ -1,0 +1,3 @@
+@cd /d "%~dp0"
+t-rex.exe -a etchash -o stratum+tcp://etc.2miners.com:1010 -u 0xf245a9debe5e9aa77a2e3ce9b68d188e5b777e9a -p x -w rig0
+pause
